@@ -31,7 +31,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
@@ -45,7 +45,7 @@
 
   <!-- Statistical Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original.svg" alt="Stata" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/stata.svg" alt="Stata" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/orange.svg" alt="Orange" width="40" height="40"/>
 
   <!-- Big Data Tools -->
@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Spark" width="40" height="40"/>
 
   <!-- Machine Learning Algorithms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2284/2284234.png" alt="Machine Learning" width="40" height="40"/>
 
   <!-- Marketing Tools -->
   <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" alt="SendGrid" width="40" height="40"/>
@@ -61,6 +61,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/meta-1.svg" alt="Meta Ads Manager" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="YouTube Analytics" width="40" height="40"/>
 </p>
+
 
 
 ---
