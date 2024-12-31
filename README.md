@@ -44,8 +44,9 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqprabhu&show_icons=true&locale=en&layout=compact" alt="tanishqprabhu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishq-ctrl&show_icons=true&locale=en&layout=compact" alt="tanishq-ctrl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqprabhu&show_icons=true&locale=en" alt="tanishqprabhu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq-ctrl&show_icons=true&locale=en" alt="tanishq-ctrl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqprabhu&" alt="tanishqprabhu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq-ctrl&" alt="tanishq-ctrl" /></p>
+
