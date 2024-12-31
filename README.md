@@ -1,16 +1,51 @@
-## Hi there 👋
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<!--
-**tanishq-ctrl/tanishq-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Tanishq Prabhu</h1>
+<h3 align="center">A Data Intelligence Associate specializing in Economics, Analytics, and Compliance, based in Dubai and India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqprabhu" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a **Data Intelligence Associate at Edu Dubai** 
+  - Optimized compliance monitoring, fraud detection, and marketing strategies.
+
+- 🌱 Currently upskilling in **Machine Learning** and **Big Data Analytics**
+
+- 👨‍💻 All of my project repositories are available on [GitHub](https://github.com/your-github-username)
+
+- 📝 I regularly participate in research and have presented at **CERE 2024, IIM Indore**
+
+- 💬 Ask me about **Azure Data Engineering, AML Compliance, Machine Learning, Python, and Tableau**
+
+- 📫 How to reach me **tanishqp@gmail.com**
+
+- ⚡ Fun fact **I am a chess and Rubik’s cube enthusiast and enjoy singing in my free time.**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-prabhu" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqprabhu&show_icons=true&locale=en&layout=compact" alt="tanishqprabhu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqprabhu&show_icons=true&locale=en" alt="tanishqprabhu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqprabhu&" alt="tanishqprabhu" /></p>
