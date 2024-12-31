@@ -39,8 +39,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mailerlite/mailerlite-original.svg" alt="MailerLite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://commons.wikimedia.org/wiki/File:MailerLite_Logo.svg" alt="MailerLite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sendgrid/sendgrid-original.svg" alt="SendGrid" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" alt="SAS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="SPSS" width="40" height="40"/>
