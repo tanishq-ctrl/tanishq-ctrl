@@ -32,14 +32,36 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SAS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+
+  <!-- Visualization Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sas.svg" alt="SAS Visual Analytics" width="40" height="40"/>
+
+  <!-- Statistical Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original.svg" alt="Stata" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/orange.svg" alt="Orange" width="40" height="40"/>
+
+  <!-- Big Data Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Spark" width="40" height="40"/>
+
+  <!-- Machine Learning Algorithms -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" width="40" height="40"/>
+
+  <!-- Marketing Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" alt="SendGrid" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mailchimp-freddie.svg" alt="Mailchimp" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/meta-1.svg" alt="Meta Ads Manager" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="YouTube Analytics" width="40" height="40"/>
 </p>
+
 
 ---
 
