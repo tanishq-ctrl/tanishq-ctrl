@@ -35,19 +35,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/M/mailerlite-logo-231D4F17A0-seeklogo.com.png" alt="MailerLite" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/S/sendgrid-logo-FA9D33B238-seeklogo.com.png" alt="SendGrid" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/SAS_logo.png" alt="SAS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Stata_logo.png" alt="Stata" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/SPSS_logo.png" alt="SPSS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Meta_Platforms_Inc._logo.svg" alt="Meta Analytics" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.svg" alt="YouTube Analytics" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mailerlite/mailerlite-original.svg" alt="MailerLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sendgrid/sendgrid-original.svg" alt="SendGrid" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" alt="SAS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="SPSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original.svg" alt="Stata" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meta/meta-original.svg" alt="Meta Analytics" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube Analytics" width="40" height="40"/>
 </p>
+
 
 
 ---
