@@ -31,23 +31,24 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/MailerLite_Logo.svg" alt="MailerLite" width="80" height="60"/>
-  <img src="https://github.com/tanishq-ctrl/tanishq-ctrl/blob/main/sendgrid-svgrepo-com.svg" alt="SendGrid" width="80" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="SPSS" width="40" height="40"/>
-  <img src="https://github.com/tanishq-ctrl/tanishq-ctrl/blob/main/stata-svgrepo-com.svg" alt="Stata" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta Analytics" width="80" height="40"/>
-  <img src="https://github.com/tanishq-ctrl/tanishq-ctrl/blob/main/statistics-youtube-svgrepo-com.svg" alt="YouTube Analytics" width="40" height="40"/>
+<p>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Atableau"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Apandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Ahadoop"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-ffbd39.svg?logo=apachehadoop&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Aazure"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Apowerbi"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3AmailerLite"><img alt="MailerLite" src="https://img.shields.io/badge/MailerLite-00C477.svg?logo=mailerlite&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Asendgrid"><img alt="SendGrid" src="https://img.shields.io/badge/SendGrid-0084FF.svg?logo=sendgrid&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Asas"><img alt="SAS" src="https://img.shields.io/badge/SAS-003f7e.svg?logo=sas&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Aspss"><img alt="SPSS" src="https://img.shields.io/badge/SPSS-004586.svg?logo=ibm&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Astata"><img alt="Stata" src="https://img.shields.io/badge/Stata-377eb8.svg?logo=stata&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Ameta"><img alt="Meta Analytics" src="https://img.shields.io/badge/Meta%20Analytics-4267B2.svg?logo=meta&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Atanishq-ctrl+tool%3Ayoutube"><img alt="YouTube Analytics" src="https://img.shields.io/badge/YouTube%20Analytics-FF0000.svg?logo=youtube&logoColor=white"></a>
 </p>
+
 
 
 ---
