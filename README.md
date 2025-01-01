@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Azure Data Engineering, AML Compliance, Machine Learning, Python, and Tableau**
 
-- 📫 How to reach me **tanishqp@gmail.com**
+- 📫 How to reach me **tanishqprabhu20@gmail.com**
 
-- ⚡ Fun fact **I am a chess and Rubik’s cube enthusiast and enjoy singing in my free time.**
+- ⚡ Fun fact **I am a chess and Rubik’s cube enthusiast.**
 
 ---
 
@@ -49,7 +49,10 @@
   <img src="https://github.com/tanishq-ctrl/tanishq-ctrl/blob/main/statistics-youtube-svgrepo-com.svg" alt="YouTube Analytics" width="40" height="40"/>
 </p>
 
+---
 
+### 🔖 Certifications:
+- ![Azure Data Engineer](https://img.shields.io/badge/Azure-Data%20Engineer-blue)
 
 ---
 
