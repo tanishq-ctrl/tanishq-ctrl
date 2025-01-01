@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Tanishq Prabhu</h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F2CF7&background=FFF91AAD&width=435&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+cybersecurity%2C+and+risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F2CF7&background=FFF91AAD&width=435&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+cybersecurity%2C+and+risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqprabhu" /> </p>
