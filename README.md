@@ -52,7 +52,8 @@
 ---
 
 ### 🔖 Certifications:
-- ![Azure Data Engineer](https://img.shields.io/badge/Azure-Data%20Engineer-blue)
+<p align="left">
+  <img src="https://www.datahai.co.uk/wp-content/uploads/2021/05/azure-data-engineer-associate-600x600-1.png" alt="Python" width="40" height="40"/>
 
 ---
 
