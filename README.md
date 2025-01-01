@@ -65,7 +65,7 @@
 
 ---
 
-<details> 
+
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -92,5 +92,5 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tanishq-ctrl's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tanishq-ctrl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
+
 
