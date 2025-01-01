@@ -59,6 +59,7 @@
   <img src="https://images.credly.com/size/680x680/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" alt="Google" width="50" height="50"/>
   <img src="https://www.sas.com/ro_ro/training/programs/sas-digital-badges/_jcr_content/par/styledcontainer_ac44/par/styledcontainer_21ef/par/image.img.png/1513081715543.png" alt="SAS" width="50" height="50"/>
 </p>
+
 ---
 
 <h3 align="left">GitHub Stats:</h3>
