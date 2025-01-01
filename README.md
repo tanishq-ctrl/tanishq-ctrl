@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Tanishq Prabhu</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=31&pause=1000&color=E1FF28&background=1542FF&width=2450&height=125&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+Cybersecurity%2C+and+Risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=31&pause=1000&color=E1FF28&background=1542FF&center=true&vCenter=true&width=2450&height=125&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+Cybersecurity%2C+and+Risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqprabhu" /> </p>
