@@ -40,8 +40,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/MailerLite_Logo.svg" alt="MailerLite" width="50" height="60"/>
-  <img src="https://github.com/tanishq-ctrl/tanishq-ctrl/blob/main/sendgrid-svgrepo-com.svg" alt="SendGrid" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/MailerLite_Logo.svg" alt="MailerLite" width="80" height="60"/>
+  <img src="https://github.com/tanishq-ctrl/tanishq-ctrl/blob/main/sendgrid-svgrepo-com.svg" alt="SendGrid" width="80" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="SPSS" width="40" height="40"/>
   <img src="https://github.com/tanishq-ctrl/tanishq-ctrl/blob/main/stata-svgrepo-com.svg" alt="Stata" width="40" height="40"/>
