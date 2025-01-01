@@ -53,14 +53,15 @@
 
 ---
 
-### 🔖 Certifications:
-<p align="left">
-  <img src="https://www.datahai.co.uk/wp-content/uploads/2021/05/azure-data-engineer-associate-600x600-1.png" alt="Azure" width="50" height="50"/>
-  <img src="https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" alt="Google" width="50" height="50"/>
-  <img src="https://images.credly.com/size/680x680/images/a34119f2-402f-4443-8555-ccfe2520f1df/GCC_badge_PGM_1000x1000.png" alt="Google" width="50" height="50"/>
-  <img src="https://images.credly.com/size/680x680/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" alt="Google" width="50" height="50"/>
-  <img src="https://www.sas.com/ro_ro/training/programs/sas-digital-badges/_jcr_content/par/styledcontainer_ac44/par/styledcontainer_21ef/par/image.img.png/1513081715543.png" alt="SAS" width="50" height="50"/>
+<h3 align="left">Certifications and Badges:</h3>
+<p>
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-engineer/"><img alt="Azure Data Engineer Associate" src="https://img.shields.io/badge/Azure%20Data%20Engineer%20Associate-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
+  <a href="https://www.credly.com/badges/7abb071f-772a-46fe-a899-5a11699a62dc"><img alt="Google Data Analytics" src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4.svg?logo=google&logoColor=white"></a>
+  <a href="https://www.credly.com/badges/a34119f2-402f-4443-8555-ccfe2520f1df"><img alt="Google Project Management" src="https://img.shields.io/badge/Google%20Project%20Management-34A853.svg?logo=google&logoColor=white"></a>
+  <a href="https://www.credly.com/badges/941fa490-a052-46ae-beff-1ac8e55c117f"><img alt="Google IT Automation with Python" src="https://img.shields.io/badge/Google%20IT%20Automation%20with%20Python-FFCC00.svg?logo=google&logoColor=black"></a>
+  <a href="https://www.sas.com/en_us/training/programs/sas-digital-badges.html"><img alt="SAS Generative AI Specialist" src="https://img.shields.io/badge/SAS%20Generative%20AI%20Specialist-003f7e.svg?logo=sas&logoColor=white"></a>
 </p>
+
 
 ---
 
