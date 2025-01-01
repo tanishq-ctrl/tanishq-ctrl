@@ -11,7 +11,7 @@
 
 - 🌱 Currently upskilling in **Machine Learning** and **Big Data Analytics**
 
-- 👨‍💻 All of my project repositories are available on [GitHub](https://github.com/your-github-username)
+- 👨‍💻 All of my project repositories are available on [GitHub](https://github.com/tanishq-ctrl)
 
 - 📝 I regularly participate in research and have presented at **CERE 2024, IIM Indore**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-prabhu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanishq-prabhu-b71467166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-prabhu" height="30" width="40" /></a>
 </p>
 
 ---
