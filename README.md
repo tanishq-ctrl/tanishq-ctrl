@@ -6,8 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqprabhu" /> </p>
 
-- 🔭 I’m currently working as a **Data Intelligence Associate at Edu Dubai** 
-  - Optimized compliance monitoring, fraud detection, and marketing strategies.
+- 🔭 I’m currently working as a **Data Intelligence Associate at Edu Dubai**
+
+- 📫 Optimized compliance monitoring, fraud detection, and marketing strategies.
 
 - 🌱 Currently upskilling in **Machine Learning** and **Big Data Analytics**
 
