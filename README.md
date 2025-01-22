@@ -73,10 +73,7 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tanishq-ctrl's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tanishq-ctrl&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=tanishq-ctrl&theme=monokai-metallian&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=199" alt="GitHub Streak" /></a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
@@ -84,7 +81,7 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tanishq-ctrl's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tanishq-ctrl&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ctrl&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   <img alt="tanishq-ctrl's Top Languages" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ctrl&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
