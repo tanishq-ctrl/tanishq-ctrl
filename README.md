@@ -79,9 +79,6 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ctrl&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   <img alt="tanishq-ctrl's Top Languages" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ctrl&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
