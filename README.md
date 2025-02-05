@@ -73,8 +73,7 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=tanishq-ctrl&theme=monokai-metallian&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=199" alt="GitHub Streak" /></a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=tanishq-ctrl&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
